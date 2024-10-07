@@ -1,12 +1,14 @@
 .ipynb_checkpoints/
+*.pyc
+*__pycache__/
 ai/
 Final Project - Python/
-neuralnetworksanddeeplearning.pdf
-ITEK_AI-main/
-*.zip
+PDF/
+ITEK_AI/
+boab/data/
+convmappe_til_stud/images/
+
+*.zip   
 *.csv
 *.keras
-*.wav
-__pycache__/
 *.png
-*.pdf
