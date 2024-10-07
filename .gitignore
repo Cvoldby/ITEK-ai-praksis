@@ -2,3 +2,11 @@
 ai/
 Final Project - Python/
 neuralnetworksanddeeplearning.pdf
+ITEK_AI-main/
+*.zip
+*.csv
+*.keras
+*.wav
+__pycache__/
+*.png
+*.pdf
